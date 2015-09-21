@@ -1,2 +1,2 @@
-# git-rebasing input2 from dev
+# git-rebasing master overwrite
 ## input1 from dev
